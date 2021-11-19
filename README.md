@@ -1,1 +1,1 @@
-# thanos-interview
+# thanos-terraform
